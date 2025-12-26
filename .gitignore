@@ -1,0 +1,41 @@
+# ======================
+# Python cache files
+# ======================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ======================
+# Virtual environments
+# ======================
+venv/
+env/
+ENV/
+.venv/
+.python-version
+
+# ======================
+# Python packaging
+# ======================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ======================
+# Logs & temp files
+# ======================
+*.log
+*.tmp
+*.swp
+
+# ======================
+# Jupyter / IPython
+# ======================
+.ipynb_checkpoints/
+
+# ======================
+# OS-specific
+# ======================
+.DS_Store
+Thumbs.db
